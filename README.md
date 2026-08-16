@@ -1,4 +1,4 @@
----
+
 Financial Reports RAG Chatbot 💼📑
 
 Project Context: This project was developed as a task assigned by HCLTECH, completed in my capacity as an Ambassador. It demonstrates an end-to-end, enterprise-ready Retrieval-Augmented Generation (RAG) system tailored for analyzing and extracting insights from dense financial documents.
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Note: If you encounter import errors related to numpy.core.umath, ensure you are using NumPy 1.x by running:
 
-pip install "numpy 2"
+pip install "numpy<2"
 ---
 2. 🔐 Configure Environment Variables
 
